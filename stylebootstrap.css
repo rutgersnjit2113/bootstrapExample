@@ -1,0 +1,20 @@
+.control-label
+{
+  color: #FFFFFF;
+}
+.container
+{
+  background-color: #0e0e0e;
+  background-size: auto;
+}
+.container h1
+{
+  color: #FFFFFF;
+  font-size: 30px;
+  text-align: center;
+}
+.main-header
+{
+  padding-left: 91px;
+  padding-right: 91px;
+}
